@@ -10,6 +10,9 @@
 <body>
     <a href="/">Home</a>
     <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+    <a href="/contact">Contact</a>
+    <h1>Ini adalah halaman home</h1>
     <h1>Halaman About</h1>
     <h3>Owner: {{ $nama }}</h3>
     <img src="img/api.png" alt="" width="200">
