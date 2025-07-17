@@ -8,13 +8,18 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
     <h1>Contact Me!</h1>
-    <input type="text" placeholder="Full Name"><br><br>
-    <input type="email" placeholder="Your Email"><br><br>
-    <input type="number" placeholder="Mobile Number"><br><br>
-    <input type="text" placeholder="Email Subject"><br><br>
-    <input type="submit" value="Send Message" class="btn"><br><br>
+    <ul>
+        <li>
+            Instagram: <a href="https://www.instagram.com/ayysa.f/">Instagram</a>
+        </li>
+        <li>
+            <a href="https://github.com/ayusafitri721">Github</a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/in/ayusafitri21/">Linkedln</a>
+        </li>
+    </ul>
 
 </body>
 </html>

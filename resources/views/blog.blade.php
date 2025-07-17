@@ -7,8 +7,15 @@
     <title>Halaman Blog</title>
 </head>
 <body>
-    <h1>Ini adalah halaman blog</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, 
-    excepturi fugit dolorem facilis magnam beatae repudiandae harum error doloremque doloribus alias dicta.</p>
+    <h1>Halaman Blog</h1>
+   <article>
+    <h3>Judul 1</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore officiis ratione iste architecto sapiente? Facilis atque accusamus sit adipisci, explicabo aspernatur ab?</p>
+   </article>
+
+   <article>
+    <h3>Judul 2</h3>
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quod temporibus eligendi accusamus quas, labore rerum, est sapiente ad optio nostrum, reiciendis expedita culpa nam? Atque sunt magnam dolore asperiores velit!
+   </article>
 </body>
 </html>
